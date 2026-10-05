@@ -1,0 +1,35 @@
+{
+  "profile_url": "https://www.zhihu.com/people/your-account/answers",
+  "hours": 24,
+  "max_scrolls": 20,
+  "page_timeout": 25,
+  "min_action_interval": 1.5,
+  "max_sends_per_day": 5,
+  "search_queries": [
+    "深圳的你 择偶",
+    "深圳择偶标准是什么",
+    "深圳的你 择偶标准是怎样的",
+    "深圳的湖南人择偶标准",
+    "深圳的你择偶标准",
+    "深圳找对象",
+    "深圳交友贴"
+  ],
+  "question_urls": [
+    "https://www.zhihu.com/question/311091528",
+    "https://www.zhihu.com/question/1961054400056366545",
+    "https://www.zhihu.com/question/2020157539514340904",
+    "https://www.zhihu.com/question/547411735"
+  ],
+  "skip_names": [],
+  "skip_author_urls": [],
+  "self_intro": "填写用于首次招呼的真实个人资料",
+  "marriage_preference": "填写真实的关系或婚姻预期",
+  "message_generation": {
+    "required_skill": "goutoujunshi",
+    "skill_path": "/path/to/goutoujunshi/SKILL.md",
+    "reference_path": "references/practical/实战话术编排器：从一句回复到后续分支.md",
+    "prompt_path": "prompts/首次私信生成.md",
+    "require_style_review": true,
+    "allow_template_fallback": false
+  }
+}
